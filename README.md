@@ -58,5 +58,5 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) integrált fejlesztői környezet
 
 ### Kapcsolati UML
-
+![UML](https://github.com/Vivka02/MiniNeptun/blob/master/UML.png "Táblák kapcsolati UML diagramja") 
 
